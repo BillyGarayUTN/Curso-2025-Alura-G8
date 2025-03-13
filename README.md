@@ -46,10 +46,5 @@ Realiza tus cambios y haz commit (git commit -m 'Agrega nueva funcionalidad')
 Sube los cambios a tu fork (git push origin feature/nueva-funcion)
 Abre un pull request en GitHub
 
-📄 Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
 
-## Autor
 
-| [<img src="https://avatars.githubuserconte![52100151](https://github.com/user-attachments/assets/b64e92bc-1917-4c5d-92fa-29faf7c56cf3)
-nt.com/u/37356058?v=4" width=115><br><sub>Sandra Patricia Carrillo Velosa</sub>](https://github.com/SandraC-cyber)  :---: |
